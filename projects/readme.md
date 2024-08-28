@@ -1,6 +1,6 @@
 
 ## Author
-This project is maintained by '[end-to-end Solution Architect](https://e2esolutionarchitect.com/)'. Please feel free to drop a note to contactus@e2eSolutionArchitect.com for any queries
+This project is maintained by '[end-to-end Solution Architect]'. Please feel free to drop a note to devops.certificate29@gmail.com for any queries
 
 ## Permission
 end-to-end Solution Architect forum is contributing this as knowledge sharing. You are free to use and modify this.
@@ -16,7 +16,7 @@ every project and module has separate readme file and tf-spec.md. Please read th
 
 Rename app_tfvars file name to as app.tfvars and then execute  below command
 ```
- terraform apply -var-file="app.tfvars" -var="createdby=e2esa"
+ terraform apply -var-file="app.tfvars" -var="createdby=lvijay6"
 ```
 
 ## Run terraform-docs to generate tf document
