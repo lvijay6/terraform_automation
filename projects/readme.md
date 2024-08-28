@@ -8,9 +8,9 @@ end-to-end Solution Architect forum is contributing this as knowledge sharing. Y
 ## How to execute
 - Step 1: terraform init
 - Step 2: terraform validate
-- Setp 3: terraform plan -var-file="app.tfvars" -var="createdby=e2esa"
-- Setp 4: terraform apply -var-file="app.tfvars" -var="createdby=e2esa"
-- Setp 5: terraform destroy -var-file="app.tfvars" -var="createdby=e2esa"
+- Setp 3: terraform plan -var-file="app.tfvars" -var="createdby=lvijay6"
+- Setp 4: terraform apply -var-file="app.tfvars" -var="createdby=lvijay6"
+- Setp 5: terraform destroy -var-file="app.tfvars" -var="createdby=lvijay6"
 
 every project and module has separate readme file and tf-spec.md. Please read that for specific instructions. 
 
