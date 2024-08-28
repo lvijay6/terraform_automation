@@ -26,11 +26,3 @@ browse inside your terraform project directory and run the below command
 terraform-docs markdown table . > tf-spec.md
 ```
 
-## Notes
-- Please check repository https://github.com/e2eSolutionArchitect/terraform
-- We encourage you to contribute your knowledge with us and create a stronger IT community.
-
-### Tech Docs & KEDB [Click here](https://github.com/e2eSolutionArchitect/KEDB)
-- Manage Multiple environments with backend configuration [Click here](https://github.com/e2eSolutionArchitect/KEDB/blob/main/terraform/terraform%20backend%20values%20not%20allowed.md)
-
-[![Terraform Advance Playlist](https://user-images.githubusercontent.com/62712515/206504025-16ae6833-1289-4f79-bc50-10439207cebd.png)](https://www.youtube.com/playlist?list=PLuBBTh-4TzDkUiWqlrwwnJ3QFJdP4JiPy)
